@@ -1,0 +1,7 @@
+[user]
+	email = andrumid@gmail.com
+	name = Andre
+[credential]
+	helper = cache
+[core]
+	editor = codium --wait

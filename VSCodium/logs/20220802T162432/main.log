@@ -1,0 +1,6 @@
+[2022-08-02 16:24:33.539] [main] [info] update#setState idle
+[2022-08-02 16:24:35.270] [main] [info] Starting extension host with pid 7009 (fork() took 23 ms).
+[2022-08-02 16:25:03.542] [main] [info] update#setState checking for updates
+[2022-08-02 16:25:03.703] [main] [info] update#setState available for download
+[2022-08-02 16:25:14.013] [main] [info] Waiting for extension host with pid 7009 to exit.
+[2022-08-02 16:25:14.049] [main] [info] Extension host with pid 7009 exited with code: 0, signal: null.

@@ -1,0 +1,6 @@
+[2022-07-21 19:41:27.757] [main] [info] update#setState idle
+[2022-07-21 19:41:30.738] [main] [info] Starting extension host with pid 5024 (fork() took 13 ms).
+[2022-07-21 19:41:57.764] [main] [info] update#setState checking for updates
+[2022-07-21 19:41:58.531] [main] [info] update#setState available for download
+[2022-07-21 19:46:56.833] [main] [info] Waiting for extension host with pid 5024 to exit.
+[2022-07-21 19:46:56.843] [main] [info] Extension host with pid 5024 exited with code: 0, signal: null.

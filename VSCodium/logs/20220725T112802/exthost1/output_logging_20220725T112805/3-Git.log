@@ -1,0 +1,5 @@
+[2022-07-25T16:28:06.223Z] Log level: Info
+[2022-07-25T16:28:06.224Z] [info] Validating found git in: git
+[2022-07-25T16:28:06.242Z] [info] Using git 2.37.1 from git
+[2022-07-25T16:28:06.263Z] > git rev-parse --show-toplevel [14ms]
+[2022-07-25T16:28:06.263Z] fatal: this operation must be run in a work tree

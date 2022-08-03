@@ -1,0 +1,17 @@
+[2022-07-21 19:41:33.263] [exthost] [info] Extension host with pid 5024 started
+[2022-07-21 19:41:33.263] [exthost] [info] Skipping acquiring lock for /home/andre/.config/VSCodium/User/workspaceStorage/19b5852fc9027c1185e25d3dac0f0779.
+[2022-07-21 19:41:33.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-21 19:41:33.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-21 19:41:33.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-21 19:41:33.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-21 19:41:33.657] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-07-21 19:41:33.772] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-21 19:41:33.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-21 19:41:34.283] [exthost] [info] Eager extensions activated
+[2022-07-21 19:41:34.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-21 19:41:34.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-21 19:41:34.509] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-21 19:41:35.279] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-21 19:41:35.701] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-21 19:46:56.793] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-21 19:46:56.817] [exthost] [info] Extension host with pid 5024 exiting with code 0

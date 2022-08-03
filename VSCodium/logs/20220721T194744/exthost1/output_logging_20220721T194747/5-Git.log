@@ -1,0 +1,23 @@
+[2022-07-22T00:49:19.074Z] Log level: Info
+[2022-07-22T00:49:19.075Z] [info] Validating found git in: git
+[2022-07-22T00:49:19.179Z] [info] Using git 2.37.1 from git
+[2022-07-22T00:49:19.261Z] > git rev-parse --show-toplevel [36ms]
+[2022-07-22T00:49:19.261Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-22T00:49:19.311Z] > git rev-parse --show-toplevel [20ms]
+[2022-07-22T00:49:19.311Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-22T00:49:19.324Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-22T00:49:19.324Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-22T00:49:19.341Z] > git rev-parse --show-toplevel [5ms]
+[2022-07-22T00:49:19.341Z] fatal: detected dubious ownership in repository at '/home/andre/Downloads/zart'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/andre/Downloads/zart
+[2022-07-22T00:53:55.527Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-22T00:53:55.527Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-22T01:02:02.400Z] > git rev-parse --show-toplevel [38ms]
+[2022-07-22T01:02:02.400Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

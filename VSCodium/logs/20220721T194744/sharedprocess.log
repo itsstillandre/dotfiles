@@ -1,0 +1,24 @@
+[2022-07-21 19:47:48.285] [sharedprocess] [info] Starting worker process with pid 7859 (type: fileWatcher, window: 1).
+[2022-07-21 19:49:17.552] [sharedprocess] [info] Getting Manifest... yandeu.five-server
+[2022-07-21 19:49:17.560] [sharedprocess] [info] Installing extension: yandeu.five-server
+[2022-07-21 19:53:50.749] [sharedprocess] [info] Downloaded extension: yandeu.five-server /home/andre/.config/VSCodium/CachedExtensionVSIXs/yandeu.five-server-0.1.5
+[2022-07-21 19:53:54.594] [sharedprocess] [info] Extracted extension to /home/andre/.vscode-oss/extensions/.ae545112-0868-4c28-a1bd-ca7b35bdca29: yandeu.five-server
+[2022-07-21 19:53:54.702] [sharedprocess] [info] Renamed to /home/andre/.vscode-oss/extensions/yandeu.five-server-0.1.5
+[2022-07-21 19:53:54.706] [sharedprocess] [info] Extracting completed. yandeu.five-server
+[2022-07-21 19:53:54.710] [sharedprocess] [info] Extension installed successfully: yandeu.five-server
+[2022-07-21 20:02:26.692] [sharedprocess] [info] Getting Manifest... ritwickdey.live-sass
+[2022-07-21 20:02:26.705] [sharedprocess] [info] Installing extension: ritwickdey.live-sass
+[2022-07-21 20:02:30.061] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-07-21 20:02:32.413] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-07-21 20:02:46.665] [sharedprocess] [info] Worker process with pid 7859 terminated normally (type: fileWatcher, window: 1).
+[2022-07-21 20:02:48.768] [sharedprocess] [info] Starting worker process with pid 10135 (type: fileWatcher, window: 1).
+[2022-07-21 20:03:58.076] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/andre/.config/VSCodium/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-07-21 20:03:59.946] [sharedprocess] [info] Extracted extension to /home/andre/.vscode-oss/extensions/.1afc631e-656a-4e30-aa5f-706da8d6b058: ritwickdey.liveserver
+[2022-07-21 20:04:00.021] [sharedprocess] [info] Renamed to /home/andre/.vscode-oss/extensions/ritwickdey.liveserver-5.7.5
+[2022-07-21 20:04:00.024] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-07-21 20:10:04.774] [sharedprocess] [info] Downloaded extension: ritwickdey.live-sass /home/andre/.config/VSCodium/CachedExtensionVSIXs/ritwickdey.live-sass-3.0.0
+[2022-07-21 20:10:05.746] [sharedprocess] [info] Extracted extension to /home/andre/.vscode-oss/extensions/.5656ec48-0e09-4b4d-b8c3-9b71c769ca45: ritwickdey.live-sass
+[2022-07-21 20:10:05.828] [sharedprocess] [info] Renamed to /home/andre/.vscode-oss/extensions/ritwickdey.live-sass-3.0.0
+[2022-07-21 20:10:05.831] [sharedprocess] [info] Extracting completed. ritwickdey.live-sass
+[2022-07-21 20:10:05.836] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-07-21 20:10:05.836] [sharedprocess] [info] Extension installed successfully: ritwickdey.live-sass
